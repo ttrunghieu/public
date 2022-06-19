@@ -10,7 +10,7 @@ namespace ConsoleAppProjectNet31
         static void Main(string[] args)
         {
             Console.WriteLine("The program will add 2 fraction numbers");
-            Console.WriteLine("Input an expression (e.g. 2/3+3/4+5/7) then enter: ");
+            //Console.WriteLine("Input an expression (e.g. 2/3+3/4+5/7) then enter: ");
 
             // Function
             int num1, dem1, num2, dem2;
